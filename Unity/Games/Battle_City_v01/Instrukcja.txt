@@ -1,0 +1,18 @@
+Gra jest interpretacj¹ autora piêknej historii, która s¹ Tank Battalion/Battle City/Tank Force.
+
+W grze streujemy czo³giem t55a i walczymy z nazistami.
+Do pokonania jest 20 przeciwników, ale na planszy jest ich maksymalnie 4.
+Po wykonaniu zadania ³aduje siê nastêpna plansza.
+Przeciwnicy z "nartami" po smierci pojawi¹ ró¿ne bonusy.
+
+Sterowanie:
+strza³ki - poruszanie
+z - strza³
+esc - wyjœcie z aplikacji
+
+Gra jest w wersji testowej, czo³gi czasem potrafi¹ lataæ, kolizje wywo³uj¹ usmiech na twarzy i inne ...
+
+Nie jestem autorem wszystkich wykorzystanych tekstur i modeli, nie znam ich praw autorskich,
+wiêc nie polecam dystrybucji tej gry do osób trzecich.
+
+Mi³ej zabawy :D
